@@ -1,2 +1,0 @@
-# kinara
-MERN Stack application
